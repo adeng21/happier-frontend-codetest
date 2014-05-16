@@ -1,0 +1,10 @@
+<div class="col-md-10 col-md-offset-1">
+	<h3>Happier Videos</h3>
+	<p>The three videos below are broken. Make them work.</p>
+	<div ng-repeat="video in videos">
+		<h4>{{video.name}}</h4>
+		<video class='videoPlayer' controls preload='metadata'>
+	        <source ng-src='{{video.src}}' type='video/mp4'>
+	    </video>
+	</div>
+</div>
