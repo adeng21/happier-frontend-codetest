@@ -4,23 +4,23 @@ This repository is the code for the Happier Front-end Developer Test. This is a 
 
 ## Getting Started
 
-To get you started you can simply clone the angular-seed repository and install the dependencies:
+To get you started you can simply clone the happier-frontend-codetest repository and install the dependencies:
 
 ### Prerequisites
 
-You need git to clone the happier-codetest repository. You can get it from
+You need git to clone the happier-frontend-codetest repository. You can get it from
 [http://git-scm.com/](http://git-scm.com/).
 
 We also use a number of node.js tools to initialize the test. You must have node.js and
 its package manager (npm) installed.  You can get them from [http://nodejs.org/](http://nodejs.org/).
 
-### Clone happier-codetest
+### Clone happier-frontend-codetest
 
-Clone the angular-seed repository using [git][git]:
+Clone the happier-frontend-codetest repository using git:
 
 ```
-git clone https://github.com/angular/angular-seed.git
-cd happier-codetest
+git clone git@github.com:HappierApp/happier-frontend-codetest.git
+cd happier-frontend-codetest
 ```
 
 ### Install Dependencies
